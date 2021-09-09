@@ -1,2 +1,3 @@
 # typing-master
-## Using random-word-api
+### Using random-word-api
+https://random-word-api.herokuapp.com/home
