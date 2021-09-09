@@ -1,3 +1,2 @@
 # typing-master
-
-##Using random-word-api
+## Using random-word-api
