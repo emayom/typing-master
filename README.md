@@ -6,5 +6,6 @@ https://emayom.github.io/typing-master/
   LET'S TRY IT!!!!!!
 
 
-<u> ### Using random-word-api 👇🏻 </u>
+### Using random-word-api 👇🏻 
+<hr>
 https://random-word-api.herokuapp.com/home
