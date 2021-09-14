@@ -7,5 +7,5 @@ https://emayom.github.io/typing-master/
 
 <hr>
 
-### Using random-word-api 👇🏻 
+random-word-api 👇🏻 
 https://random-word-api.herokuapp.com/home
